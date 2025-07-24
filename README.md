@@ -1,4 +1,5 @@
 # Debt
 
 
-https://codehs.com/sandbox/id/debt-XsgQF7
+
+🔗 Try the debt calculator [here](https://codehs.com/sandbox/id/debt-XsgQF7)!
