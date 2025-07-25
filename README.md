@@ -1,3 +1,6 @@
+>[!NOTE]
+> The wolves are buttons.
+
 <img width="1581" height="158" alt="DebtLogo" src="https://github.com/user-attachments/assets/3611c902-8fd9-4c17-aec6-54f594680cbd" />
 
 <div align="center">
