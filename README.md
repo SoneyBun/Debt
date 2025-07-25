@@ -2,10 +2,12 @@
 
 <div align="center">
 Debt Calculator & More for a certain someone.
+  
+&nbsp;
 
-  &nbsp;
+<a href="https://discord.gg/h4gZaq4D7A" target="_blank"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/edccc1aa-401f-4e9b-84d9-1cfd1730c8e4" /></a>
+<a href="../Math" target="blank"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3993d61b-1631-453a-ae17-60d1972ed019" /></a>
 
-  Buttons Here
 </div>
 
 
