@@ -9,6 +9,3 @@ Debt Calculator & More for a certain someone.
 <a href="https://github.com/SoneyBun/Debt/tree/main/Math" target="blank"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3993d61b-1631-453a-ae17-60d1972ed019" /></a>
 
 </div>
-
-
-🔗 Try the debt calculator [here]()!
