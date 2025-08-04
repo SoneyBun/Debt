@@ -12,8 +12,8 @@ public class Main {
         
         // Code Input
         System.out.print("Enter Code: ");
-        String code = input.nextLine();
-        CodeManager manager = new CodeManager(code.toUpperCase());
+        String code = input.nextLine().toUpperCase();
+        CodeManager manager = new CodeManager(code);
         minimumMonth = manager.getMinimum();
        
         // Month Input
