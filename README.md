@@ -4,8 +4,6 @@
 <img width="1197" height="119" alt="WolfDebtLogo" src="https://github.com/user-attachments/assets/a49fdbe8-0722-4c8d-a509-5b50ea5cf604" />
 
 <div align="center">
-  
-  &nbsp;🐺 | Debt Calculator & More For Certain People | 🐺
 
 &nbsp;
 
