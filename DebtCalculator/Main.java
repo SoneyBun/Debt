@@ -14,14 +14,14 @@ public class Main {
         System.out.print("Enter Code: ");
         String code = input.nextLine().toUpperCase();
         CodeManager manager = new CodeManager(code);
-        minimumMonth = manager.getMinimum();
+        minimumMonth = manager.getMinimumMonth();
        
         // Month Input
         while(!valid) {
             System.out.println("Enter # of months after " + minimumMonth);
             String i = input.nextLine();
             try {
-                if(Integer.parseInt(i) > 0) {
+                if(Integer.parseInt(i) >= manager.getMinimum()) {
                     month = Integer.parseInt(i);
                     valid = true;
                 }
