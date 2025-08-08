@@ -1,3 +1,6 @@
+# 🚨 Debt replaced with [Debtector](https://github.com/SoneyBun/Debtector)
+---
+
 >[!NOTE]
 > The three wolves are buttons.
 
