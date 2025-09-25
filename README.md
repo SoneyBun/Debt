@@ -1,4 +1,4 @@
-# 🚨 Debt replaced with [Debtector](https://github.com/SoneyBun/Debtector)
+# 🚨 Debt replaced with [Debtector](https://github.com/Debtector/Debtector)
 ---
 
 >[!NOTE]
