@@ -1,5 +1,5 @@
-# 🚨 Debt replaced with [Debtector](https://github.com/Debtector/Debtector)
----
+>[!TIP]
+>Make a better debt calculator with [Debtector](https://github.com/Debtector/Debtector)
 
 >[!NOTE]
 > The three wolves are buttons.
